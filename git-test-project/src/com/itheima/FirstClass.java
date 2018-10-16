@@ -13,6 +13,7 @@ public class FirstClass {
     public  void test(){
         int i =10;
         i+=5;
+        System.out.println(i);
     }
 
 }
